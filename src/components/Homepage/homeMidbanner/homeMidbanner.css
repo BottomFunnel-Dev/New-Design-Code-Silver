@@ -1,0 +1,41 @@
+.midBannerDiv{
+    height: 100vh;
+}
+.midBannerDiv>img{
+    width: 100%;
+    height: 100%;
+}
+.midBannerDiv {
+    position: relative;
+  }
+  
+  .midBannerImage {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .midBannerContent {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+  }
+  
+  .midBannerHeading {
+    color: #333131;
+    font-size: 46px;
+    margin-bottom: 20px;
+  }
+  
+  .midBannerButton {
+    background-color: transparent;
+    color: #333131;
+    font-weight: 400;
+    border: 1px solid #333131;
+    padding: 10px 35px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

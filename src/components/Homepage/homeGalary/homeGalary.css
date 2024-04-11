@@ -1,0 +1,6 @@
+.homegalarycontainer>img{
+  filter: grayscale(1.5);
+}
+.homegalarycontainer>img:hover{
+  filter: none;
+}
