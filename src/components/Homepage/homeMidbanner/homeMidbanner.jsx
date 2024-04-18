@@ -3,14 +3,22 @@ import './homeMidbanner.css';
 
 export const HomeMidBanner = () => {
   return (
-    <div className="container-fluid midBannerDiv">
-        <img src="/img/cta.png" alt="midBannerImage" className="midBannerImage"/>
+    <>
+      <div className="container-fluid midBannerContainer p-0">
         <div className="midBannerContent">
-            <h2 className="midBannerHeading">
-              When There Is A <br /> Unique Way Of <br /> Expressions.
-            </h2>
-            <button className="midBannerButton">Shop Now</button>
+          <div className="midBannerHeading">
+            <h2>Gold Jewellery Handcrafted with care Just for you</h2>
+            <button className="midBannerButton">Explore</button>
+          </div>
         </div>
-    </div>
+        <img
+          src="/img/Homepage/CTA.png"
+          alt="midBannerImage"
+          className="midBannerImage"
+        />
+      </div>
+    </>
   );
 };
+
+

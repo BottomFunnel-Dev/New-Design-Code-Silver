@@ -1,0 +1,18 @@
+.cardscontainer{
+    border: 1px solid #D9A05B !important;
+}
+.homeCardsHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    margin-top: 7%;
+    width: fit-content;
+  }
+  
+.homeCardsHeading > img {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+  }
+  

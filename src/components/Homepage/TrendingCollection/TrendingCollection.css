@@ -1,0 +1,112 @@
+.trendingCollectionsHeading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+  margin-top: 7%;
+  width: fit-content;
+}
+
+.trendingCollectionsHeading > img {
+  height: 25px;
+  width: 25px;
+  margin: auto;
+}
+.trendingCollectionContainer{
+  display: flex;
+  flex-direction: row;
+  column-gap: 1%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.trendingCollectionLeft {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5%;
+  position: relative;
+}
+.trendingCollectionRight {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5%;
+  position: relative;
+}
+.trendingCollectionLeft>img{
+  width: 100%;
+  height: 100%;
+}
+.trendingCollectionRight>img{
+  width: 100%;
+  height: 100%;
+}
+.floralImage{
+  height: 460px !important;
+}
+.overlay-text {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  z-index: 1;
+}
+.overlay-text1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  z-index: 1;
+}
+.overlay-text2 {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  z-index: 1;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 768px) {
+
+  .trendingCollectionContainer{
+    flex-direction: column;
+    row-gap: 2%;
+  }
+  .trendingCollectionContainer > div > img{
+    margin-top: 2%;
+  } 
+  .floralImage{
+    height: 450px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .overlay-text2 {
+    position: absolute;
+    top: 18%;
+    left: 50%;
+  }
+  .floralImage{
+    height: 250px !important;
+  }
+}
+
+
+
+.heading {
+  font-family: 'Darkline', sans-serif;
+}
