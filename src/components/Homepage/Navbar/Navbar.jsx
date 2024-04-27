@@ -513,6 +513,9 @@ export const Navbar = () => {
           </div>
         </nav>
       </div>
+      <div className="navbarGoldLine">
+        <img src="/img/Homepage/Goldline.png" alt="" />
+      </div>
     </div>
   );
 };
