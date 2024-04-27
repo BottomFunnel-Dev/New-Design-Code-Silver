@@ -22,9 +22,7 @@ const Slider = () => {
     return (
         <>
             <div className="container-fluid p-0">
-                    <div className="descpageGoldLine">
-                                <img src="/img/Homepage/Goldline.png" alt="" />
-                    </div>
+                    
 
                     <div className="container row productMainContainer">
                         
