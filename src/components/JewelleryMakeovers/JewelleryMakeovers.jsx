@@ -15,16 +15,16 @@ export const JewelleryMakeover = () => {
 
                 <div className='container'>
                     <p className='jewelleryMakeoversPolicyContent'>
-                        Our specialized Jewelry Makeover Service is crafted to assist you in finding the perfect jewelry style and design that harmonizes with your unique
-                        attributes - including face structure, skin tone, and personality. Our dedicated Jewelry Makeover Consultant is available to guide you through the
-                        latest trends and diverse options in jewelry, ensuring that you discover styles and designs that align perfectly with your preferences.
+                        Our specialized jewellery Makeover Service is crafted to assist you in finding the perfect jewellery style and design that harmonizes with your unique
+                        attributes - including face structure, skin tone, and personality. Our dedicated jewellery Makeover Consultant is available to guide you through the
+                        latest trends and diverse options in jewellery, ensuring that you discover styles and designs that align perfectly with your preferences.
                         <br />
-                        It's quite common for women to question why a particular piece of jewelry looks stunning on someone else but doesn't quite fit their own style.
-                        Selecting the right jewelry design and style is similar to choosing clothes that complement your body type. Just like colored gemstones can highlight
-                        your eyes and skin tone, specific jewelry styles can enhance your overall appearance. Whether you lean towards subtle elegance or bold statements,
-                        your jewelry should reflect your inner beauty. You may already have an intuitive sense of what suits you best!
+                        It's quite common for women to question why a particular piece of jewellery looks stunning on someone else but doesn't quite fit their own style.
+                        Selecting the right jewellery design and style is similar to choosing clothes that complement your body type. Just like colored gemstones can highlight
+                        your eyes and skin tone, specific jewellery styles can enhance your overall appearance. Whether you lean towards subtle elegance or bold statements,
+                        your jewellery should reflect your inner beauty. You may already have an intuitive sense of what suits you best!
                         <br />
-                        To simplify the process of selecting jewelry styles and designs that are ideal for you, here are some useful tips.
+                        To simplify the process of selecting jewellery styles and designs that are ideal for you, here are some useful tips.
                         <br />
                         Let's begin by identifying your face shape: For an accurate assessment of your face shape, gather your hair into a bun or a tight ponytail. Stand
                         before a mirror and analyze your face structure. Identify the closest match among the following face shapes:
@@ -36,7 +36,7 @@ export const JewelleryMakeover = () => {
 
                     <p className='jewelleryMakeoversPolicyContent'> 
                         Considered the 'ideal' face shape, oval faces are well-proportioned with gently rounded features. They are widest at the cheekbones and taper
-                        gradually towards the jawline, Oval faces are versatile and can carry various jewelry styles, including circular, hoop, or drop earrings, as well as
+                        gradually towards the jawline, Oval faces are versatile and can carry various jewellery styles, including circular, hoop, or drop earrings, as well as
                         choker necklaces.
                     </p>
 
@@ -86,7 +86,7 @@ export const JewelleryMakeover = () => {
                     </p>
 
                     <p className='jewelleryMakeoversPolicyContent mb-5'>
-                        These guidelines will assist you in selecting jewelry styles and designs that accentuate your features and elevate your overall appearance. Should
+                        These guidelines will assist you in selecting jewellery styles and designs that accentuate your features and elevate your overall appearance. Should
                         you require further guidance or have any questions, our team is always available to provide assistance!
                     </p>
 

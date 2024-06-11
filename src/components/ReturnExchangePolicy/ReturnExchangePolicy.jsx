@@ -16,7 +16,7 @@ export const ReturnExchangePolicy = () => {
                 <div className='container'>
                     <p className='returnExchangePolicyContent'>
                         For your peace of mind, we offer an Easy Returns & Exchange policy. This policy ensures that you have ample time to feel confident about your
-                        purchase from Lotus Jeweler. If you encounter any issues with your jewelry piece, you have the option to return it within the specified policy time-
+                        purchase from Lotus Jeweler. If you encounter any issues with your jewellery piece, you have the option to return it within the specified policy time-
                         frame for a refund or exchange. Upon receiving the product back, we will process the refund within IO working days and credit the entire amount
                         back to your account.
                     <br />
@@ -26,7 +26,7 @@ export const ReturnExchangePolicy = () => {
                     <br />
                         All other orders: You have 15 days from the date of delivery to initiate a return or exchange.
                     <br />
-                         For gold jewelry, you can avail Of a 100% exchange for the invoice value within the policy timeframe, limited to one time. Gold coins can be exchanged
+                         For gold jewellery, you can avail Of a 100% exchange for the invoice value within the policy timeframe, limited to one time. Gold coins can be exchanged
                          for 99% of the current gold value based on the current gold price.
                     <br />
                         Please note that certain products such as gold coins, silver articles, silver rakhi, Silver Diamond Bracelets, and customized or engraved items are not

@@ -13,7 +13,7 @@ import { TrendingCollection } from '../../components/Homepage/TrendingCollection
 import { TopSellers } from '../../components/Homepage/TopSellers/TopSellers';
 import { HomeMidBanner } from '../../components/Homepage/homeMidbanner/homeMidbanner';
 import { LatestReleases } from '../../components/Homepage/LatestReleases/LatestReleases';
-import { Testimonial } from '../../components/Homepage/homeCards copy/Testimonial';
+import { Testimonial } from '../../components/Homepage/Testimonial/Testimonial';
 import { Footer } from '../../components/Homepage/footer/footer';
 
 
