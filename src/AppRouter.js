@@ -10,6 +10,10 @@ import Privacy from './pages/Privacy';
 import ReturnExchange from './pages/ReturnExchangePolicy';
 import TermsAndCondition from './pages/TermsAndCondition';
 import AboutUs from './pages/About';
+import Wishlist from './pages/Wishlist';
+import Faq from './pages/FAQ';
+import MyAccount from './pages/Account';
+import Contact from './pages/Contact';
 
 const AppRouter = () => {
   return (
@@ -23,6 +27,10 @@ const AppRouter = () => {
         <Route path="/return-exchange-policy" element={<ReturnExchange/>}/>
         <Route path="/terms-and-condition" element={<TermsAndCondition/>}/>
         <Route path="/about-us" element={<AboutUs/>}/>
+        <Route path="/wishlist" element={<Wishlist/>}/>
+        <Route path="/faq" element={<Faq/>}/>
+        <Route path="/my-account" element={<MyAccount/>}/>
+        <Route path="/contact-us" element={<Contact/>}/>
       </Routes>
     </Router>
   );

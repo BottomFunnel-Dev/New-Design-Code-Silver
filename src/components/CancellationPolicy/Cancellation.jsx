@@ -22,10 +22,10 @@ export const Cancellation = () => {
                         You have the option to cancel your order before it is dispatched, and we will refund the amount using the same payment method within IO working
                         days. Please note that a pre-dispatch cancellation fee of 2% will apply, and the remaining 98% will be refunded to your account.
                         <br />
-                        Cancellation is not permitted for customized jewelry products. Additionally, orders for Gold Coins, Gold articles and ICC Gold coins cannot be
+                        Cancellation is not permitted for customized jewellery products. Additionally, orders for Gold Coins, Gold articles and ICC Gold coins cannot be
                         canceled under any circumstances.
                         <br />
-                        For Gold Jewelry orders placed after 17-Apr-2020, cancellation is not allowed. However, customers can opt for a different product of equal or higher
+                        For Gold jewellery orders placed after 17-Apr-2020, cancellation is not allowed. However, customers can opt for a different product of equal or higher
                         value.
                     </p>
                 </div>

@@ -1,0 +1,47 @@
+.faqLinkHeading{
+    text-align: left;
+  }
+  .faqSubHeading>a {
+    color: #D9A05B;
+    text-decoration: none;
+  }
+  
+  .faqHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    margin-top: 4%;
+    width: fit-content;
+  }
+  
+  .faqHeading > img {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+  }
+
+  .accordianBg{
+    background-color: #FBF5EA;
+    color: #8B5E35;
+    text-align: justify;
+    border: none;
+    border-bottom: 1px solid #DAC8B4;
+  }
+  
+  .accordionBtn{
+    background-color: #FBF5EA;
+    color: #412814;
+    text-align: justify;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .accordion-button:not(.collapsed) {
+    color: #412814;
+    background-color: #FBF5EA;
+    box-shadow: none;
+  }
+  .accordion-button:focus {
+    box-shadow: none;
+  }

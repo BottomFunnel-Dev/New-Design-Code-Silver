@@ -28,7 +28,7 @@ export const TermsConditions = () => {
                     A "Consignment" represents each shipment of Product(s) made by the Seller in response to a purchase order from the Customer, complying with the
                     terms of this Agreement.
                     <br />
-                    A "Product" includes silver coins, gold coins, gold articles, and items Of gold, diamond, or gemstone jewelry available for purchase on this website.
+                    A "Product" includes silver coins, gold coins, gold articles, and items Of gold, diamond, or gemstone jewellery available for purchase on this website.
                     The descriptions of items listed may include details such as encrusting/embedding with diamonds, precious stones, semi-precious stones, pearls,
                     beads, Kundan. meena/meenakari. or coatings/electroplatings with precious metals or alloys, or artistic elements for an antique or artistic
                     appearance.
