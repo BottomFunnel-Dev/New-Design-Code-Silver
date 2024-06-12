@@ -53,7 +53,7 @@ export const ContactUs = () => {
                             <div className='col-lg-11 py-4 px-4 contactDataContent'>
                                 <h5 className='text-start headingfontSize'>Phone support</h5>
                                 <p className='m-0 ptagfontsize text-start'>Phone number +45 53691550</p>
-                                <p className='ptagfontsize text-start'>The phones are open from 9am – 5pm. Time zone Glitter City (GMT+2)</p>
+                                <p className='ptagfontsize'>The phones are open from 9am – 5pm. Time zone Glitter City (GMT+2)</p>
                             </div>
                         </div>
 

@@ -14,7 +14,6 @@ import Wishlist from './pages/Wishlist';
 import Faq from './pages/FAQ';
 import MyAccount from './pages/Account';
 import Contact from './pages/Contact';
-import Checkout from './pages/CheckOutPage';
 
 const AppRouter = () => {
   return (
@@ -32,7 +31,7 @@ const AppRouter = () => {
         <Route path="/faq" element={<Faq/>}/>
         <Route path="/my-account" element={<MyAccount/>}/>
         <Route path="/contact-us" element={<Contact/>}/>
-        <Route path="/checkout" element={<Checkout/>}/>
+        <Route path="/checkkout" element={}
       </Routes>
     </Router>
   );
