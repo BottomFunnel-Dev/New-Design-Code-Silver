@@ -1,0 +1,27 @@
+.checkoutDetails{
+    background-color: #F8EDDC;
+    border: 2px solid red;
+    
+}
+.checkoutheadingColor{
+    color: #412814;
+}
+.checkoutSubHeading{
+    color: #8A7764;
+    font-size: 15px;
+}
+.checkoutFontColor{
+    color: #8B5E35;
+}
+.checkoutPromoCodeBox{
+    border: 2px solid #DAC8B4;
+}
+.checkoutPromoCodeBox>input{
+    border: none;
+    width: 60%;
+}
+.checkoutPromoCodeBox>button{
+    border: none;
+    width: 40%;
+    bor
+}
