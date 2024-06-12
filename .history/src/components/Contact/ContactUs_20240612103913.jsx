@@ -50,10 +50,10 @@ export const ContactUs = () => {
                             <div className='col-lg-1 px-4'>
                                 <img src="/img/Contact/callbg.png" alt=""  className='my-4'/>
                             </div>
-                            <div className='col-lg-11 py-4 px-4 contactDataContent'>
-                                <h5 className='text-start headingfontSize'>Phone support</h5>
-                                <p className='m-0 ptagfontsize text-start'>Phone number +45 53691550</p>
-                                <p className='ptagfontsize text-start'>The phones are open from 9am – 5pm. Time zone Glitter City (GMT+2)</p>
+                            <div className='col-lg-11 py-4 px-4'>
+                                <h5 className='text-start'>Phone support</h5>
+                                <p className='m-0 ptagfontsize'>Phone number +45 53691550</p>
+                                <p className='ptagfontsize'>The phones are open from 9am – 5pm. Time zone Glitter City (GMT+2)</p>
                             </div>
                         </div>
 
@@ -61,10 +61,10 @@ export const ContactUs = () => {
                             <div className='col-lg-1 px-4'>
                                 <img src="/img/Contact/mailbg.png" alt=""  className='my-4'/>
                             </div>
-                            <div className='col-lg-11 py-4 px-4 contactDataContent'>
-                                <h5 className='text-start headingfontSize'>Email support</h5>
-                                <p className='m-0 ptagfontsize text-start'>E-mail us at customercare@thelotusjeweller.com</p>
-                                <p className='ptagfontsize text-start'>We aim to answer you as soon as possible and always within 48 hours</p>
+                            <div className='col-lg-11 py-4 px-4'>
+                                <h5 className='text-start'>Email support</h5>
+                                <p className='m-0 ptagfontsize'>E-mail us at customercare@thelotusjeweller.com</p>
+                                <p className='ptagfontsize'>We aim to answer you as soon as possible and always within 48 hours</p>
                             </div>
                         </div>
 
@@ -72,10 +72,10 @@ export const ContactUs = () => {
                             <div className='col-lg-1 px-4'>
                                 <img src="/img/Contact/loactionbg.png" alt=""  className='my-4'/>
                             </div>
-                            <div className='col-lg-11 py-4 px-4 contactDataContent'>
-                                <h5 className='text-start headingfontSize'>Location</h5>
-                                <p className='m-0 ptagfontsize text-start'>122, Street</p>
-                                <p className='ptagfontsize text-start'>srimrr.nna Glitter Cit" ccorty. ZO 98765</p>
+                            <div className='col-lg-11 py-4 px-4 contactResponsive'>
+                                <h5 className='text-start'>Location</h5>
+                                <p className='m-0 ptagfontsize'>122, Street</p>
+                                <p className='ptagfontsize'>srimrr.nna Glitter Cit" ccorty. ZO 98765</p>
                             </div>
                         </div>
                     </div>

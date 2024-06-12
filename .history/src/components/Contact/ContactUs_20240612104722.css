@@ -70,7 +70,7 @@
     background-repeat: no-repeat;
 }
 .ptagfontsize{
-    font-size: 14px;
+    font-size: 16px;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -92,9 +92,12 @@
 
 @media only screen and (max-width: 480px) {
     .ptagfontsize{
-        font-size: 12px;
+        font-size: 11px;
     }
     
+    .headingfontSize{
+        font-size: 15px;
+    }
     .supportBoxes{
         background-size: 100% 100%;
     }

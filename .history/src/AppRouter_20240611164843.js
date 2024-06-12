@@ -14,7 +14,6 @@ import Wishlist from './pages/Wishlist';
 import Faq from './pages/FAQ';
 import MyAccount from './pages/Account';
 import Contact from './pages/Contact';
-import Checkout from './pages/CheckOutPage';
 
 const AppRouter = () => {
   return (
