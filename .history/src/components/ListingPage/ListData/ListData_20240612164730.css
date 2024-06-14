@@ -1,0 +1,39 @@
+.mainContainerAS{
+  margin-bottom: 7%;
+}
+.listDatasCards{
+    border: 1px solid #D9A05B !important;
+}
+.listDataCardContent{
+    background-color: #FBF5EA;
+}
+.listDataitemscolor{
+    color: #8B5E35;
+}
+
+.listDataHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    width: fit-content;
+  }
+  
+  .listDataHeading > img {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+  }
+  .sellerposition{
+    position: relative;
+  }
+  .wishlistIconlistData{
+    height:30px;
+    width: 30px;
+    position: absolute;
+    right: 4%;
+    top: 3%;
+  }
+  .wishlistIconlistData:hover{
+    cursor: pointer;
+  }
