@@ -1,0 +1,162 @@
+
+.listDatasCards{
+    border: 1px solid #D9A05B !important;
+}
+.listDataCardContent{
+    background-color: #FBF5EA;
+}
+.listDataitemscolor{
+    color: #8B5E35;
+}
+.mainTextColor{
+  color: #412814;
+}
+.listDataHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    width: fit-content;
+  }
+  
+  .listDataHeading > img {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+  }
+  .sellerposition{
+    position: relative;
+  }
+  .wishlistIconlistData{
+    height:30px;
+    width: 30px;
+    position: absolute;
+    right: 4%;
+    top: 3%;
+  }
+  .wishlistIconlistData:hover{
+    cursor: pointer;
+  }
+
+
+  .listDataCTAContainer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    width: 48%;
+    margin-left: 1%;
+  }
+  
+  .listDataCTAImage {
+    width: 100%;
+    height: auto;
+    z-index: 1;
+  }
+  
+  .listDataCTAContent {
+    position: absolute;
+    top: 48%;
+    left: 10%;
+    transform: translateY(-50%);
+    color: white;
+    z-index: 10; 
+  }
+  .listDataCTAHeading{
+    text-align: left;
+    width: 70%;
+  }
+  .listDataCTAHeading > p {
+    font-size: 22px;
+    color: white;
+  }
+  
+  .listDataCTAHeading > h1 {
+    font-size: 50px;
+  }
+  
+  .listDataCTAButton {
+    background-color: #d9a05b;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 7%;
+    border: none;
+    padding: 10px 50px;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  .descPageHeading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .filterSortDiv{
+    width: 18%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .listFilterButton{
+    border: 2px solid #d9a05b;
+    width: 48%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 7px;
+    padding: 7px 10px;
+    cursor: pointer;
+  }
+  .listFilterButton>img{
+    height: 20px;
+  }
+  .listFilterButton>p{
+    color: #D9A05B;
+    font-weight: 500;
+  }
+  .listFilterclearBtn{
+    border: 2px solid #D9A05B;
+    color: #8B5E35;
+    background-color: white;
+    width: 50%;
+    padding: 9px 25px;
+    font-weight: bold;
+  }
+  .listSortsubmitBtn{
+    border: 2px solid #8B5E35;
+    color: #8B5E35;
+    background-color: white;
+    width: 50%;
+    padding: 9px 25px;
+    font-weight: bold;
+  }
+  /* Media Queries */
+  
+  @media only screen and (max-width: 768px) {
+    .listDataCTAHeading > h1 {
+      font-size: 36px;
+    }
+  
+    .listDataCTAButton {
+      padding: 10px 30px;
+      font-size: 14px; 
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .listDataCTAHeading > p {
+      font-size: 12px;
+    }
+  
+    .listDataCTAHeading > h1 {
+      font-size: 16px;
+    }
+  
+    .listDataCTAButton {
+      padding: 5px 20px;
+      font-size: 12px;
+    }
+  }
+  
