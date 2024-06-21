@@ -52,9 +52,9 @@ export const Footer = () => {
             <h5>Overview</h5>
             <ul className="mt-4">
               <li> <a href="/product-list">Collections</a></li>
-              <li> <a href="/about-us">About Us </a> </li>
-              <li> <a href="/contact-us">Contact Us </a> </li>
-              <li> <a href="/faq">FAQs </a></li>
+              <li> <a href="/about-us"></a>About Us</li>
+              <li>Contact Us</li>
+              <li>FAQs</li>
             </ul>
           </div>
         </div>

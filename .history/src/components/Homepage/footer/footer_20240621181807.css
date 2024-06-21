@@ -12,13 +12,9 @@
 .headingPolicies{
     text-align: left;
 }
-.headingPolicies>ul>li{
+.headingPolicies>ul>li>{
    list-style-type: none;
    margin-top: 4%;
-}
-.headingPolicies>ul>li>a{
-    text-decoration: none;
-    color: white;
 }
 .headingPolicies>h5{
     margin-left: 10%;

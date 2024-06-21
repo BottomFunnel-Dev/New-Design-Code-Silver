@@ -45,16 +45,16 @@ export const Footer = () => {
             <ul className="mt-4">
               <li><a href="/track-order">Your Order </a> </li>
               <li> <a href="/product-list">Best Price Assurance </a> </li>
-              <li> <a href="/jewellery-makeover">Jewellery Makeover</a> </li>
+              <li>Jewellery Makeover</li>
             </ul>
           </div>
           <div className="col-lg-2  my-5 headingPolicies headingOverview">
             <h5>Overview</h5>
             <ul className="mt-4">
-              <li> <a href="/product-list">Collections</a></li>
-              <li> <a href="/about-us">About Us </a> </li>
-              <li> <a href="/contact-us">Contact Us </a> </li>
-              <li> <a href="/faq">FAQs </a></li>
+              <li>Collections</li>
+              <li>About Us</li>
+              <li>Contact Us</li>
+              <li>FAQs</li>
             </ul>
           </div>
         </div>

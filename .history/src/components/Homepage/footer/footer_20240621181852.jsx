@@ -35,26 +35,26 @@ export const Footer = () => {
             <h5>Our Policies</h5>
             <ul className="mt-4">
               <li> <a href="/return-exchange-policy">Return & Exchange Policy</a> </li>
-              <li> <a href="/cancellation-policy">Cancellation Policy</a></li>
-              <li> <a href="/terms-and-condition">Terms & Conditions</a></li>
-              <li> <a href="/privacy-policy">Privacy Policy</a></li>
+              <li> Cancellation Policy</li>
+              <li>Terms & Conditions</li>
+              <li>Privacy Policy</li>
             </ul>
           </div>
           <div className="col-lg-3  my-5 headingPolicies">
             <h5>Customer Delight</h5>
             <ul className="mt-4">
-              <li><a href="/track-order">Your Order </a> </li>
-              <li> <a href="/product-list">Best Price Assurance </a> </li>
-              <li> <a href="/jewellery-makeover">Jewellery Makeover</a> </li>
+              <li>Track Your Order</li>
+              <li>Best Price Assurance</li>
+              <li>Jewellery Makeover</li>
             </ul>
           </div>
           <div className="col-lg-2  my-5 headingPolicies headingOverview">
             <h5>Overview</h5>
             <ul className="mt-4">
-              <li> <a href="/product-list">Collections</a></li>
-              <li> <a href="/about-us">About Us </a> </li>
-              <li> <a href="/contact-us">Contact Us </a> </li>
-              <li> <a href="/faq">FAQs </a></li>
+              <li>Collections</li>
+              <li>About Us</li>
+              <li>Contact Us</li>
+              <li>FAQs</li>
             </ul>
           </div>
         </div>
