@@ -1,0 +1,32 @@
+.trackOrderHeading {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    margin-top: 2%;
+    width: fit-content;
+  }
+  
+.trackOrderHeading > img {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+  }
+
+.trackOrderContainer{
+    border:2px solid red;
+    display: flex;
+    flex-direction: row;
+}
+.trackOrderLeftContainer{
+    border: 2px solid green;
+}
+.trackOrderLeftContainer>button{
+    border: 2px solid #8B5E35;
+    color: #8B5E35;
+    background-color: white;
+    border-radius: ;
+}
+.trackOrderRightContainer{
+    border: 2px solid yellow;
+}
