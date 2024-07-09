@@ -1,0 +1,51 @@
+.genderCategoryHeading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+  margin-top: 7%;
+  width: fit-content;
+}
+
+.genderCategoryHeading > img {
+  height: 25px;
+  width: 25px;
+  margin: auto;
+}
+
+.genderCategoryContainer {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.categoryHim,
+.categoryHer {
+  position: relative;
+  width: 100%;
+}
+
+.categoryHim > img,
+.categoryHer > img {
+  width: 100%;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  z-index: 1;
+}
+
+@media only screen and (max-width: 480px) {
+  .genderCategoryContainer >div > h2 {
+    font-size: 12px;
+  }
+}
