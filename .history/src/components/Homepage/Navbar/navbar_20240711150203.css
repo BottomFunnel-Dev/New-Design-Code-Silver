@@ -1,0 +1,138 @@
+.navbargoldline{
+  border: none;
+  height: 10px;
+  background: linear-gradient(to right, #9B6F24 ,#F8DC65);
+}
+.navbarCurrencyOption{
+    background-color: #412814;
+    color: white;
+    text-align: right;
+}
+.navbarCurrencyOption>div>select{
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.navbarCurrencyOption>div>select>option{
+    background-color: #412814;
+}
+.navbarGoldLine{
+    height: 6px;
+}
+.navbarGoldLine>img{
+    width: 100%;
+    height:5px;
+    vertical-align: top;
+}
+.logo{
+    height: 50px;
+    width: 150px;
+}
+.navbarColor{
+    color: #412814;
+}
+
+.dropdownArrow{
+    height: 10px;
+    width: 10px;
+}
+.navbarSearchbar{
+    border: 1px solid #8B5E35;
+    background-color: transparent;
+    border-radius: 20px 0px 0px 20px;
+    border-right: none;
+    width: 50%;
+}
+.navbarSearchIcon{
+    margin: 7px 9px 3% 0%;
+    width: 30px;
+}
+.navbarsearchBox{
+    border: 1px solid #8B5E35;
+    border-left: none;
+    border-radius: 0px 20px 20px 0px;
+
+}
+.navbarIcons{
+    width: 35%;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%;
+}
+.navbarOptions{
+    margin-left: 22% !important;
+    column-gap: 15px;
+}
+
+.navbarOptionsOuter{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+}
+.navbarbgPink{
+    background-color: #FBF5EA;
+    width: 460px;
+}
+.ringsType{
+    width: 33%;
+}
+.ringsType>h6{
+    text-align: left;
+    padding-left: 22%;
+    color: #412814;
+}
+.ringsType>ul{
+    text-align: left;
+    list-style-type: none;
+}
+.ringsType>ul>li{
+    color: #412814;
+}
+
+.ringsType>ul>li>a:hover{
+    color: #412814 !important;
+    background-color: #8B5E35rtant;
+}
+.form-control:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: initial;
+    background-color: transparent;
+  }
+
+.navbarviewAllLink{
+    color: #8B5E35;
+    padding: 9%;
+}
+.navbarIconsTablet{
+    display: none;
+}
+
+@media screen and (max-width: 1280px) {
+    .navbarOptions {
+      margin-left: 10% !important;
+    }
+  }
+
+@media screen and (max-width: 1024px) {
+    .navbarOptions{
+        margin-left: 0% !important;
+        text-align: left;
+    }
+  }
+  
+@media (min-width: 768px) and (max-width: 991px) {
+     
+    .navbarIconsTablet{
+        display: block;
+    }
+    .navbariconsWeb{
+        display: none !important;
+    }
+}
+
+
+
+
