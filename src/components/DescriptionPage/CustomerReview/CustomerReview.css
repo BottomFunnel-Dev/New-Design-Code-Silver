@@ -184,5 +184,11 @@ progress::-moz-progress-bar {
   .review-card {
     width: 100%;
   }
+  .crRatings {
+    width: 50%;
+  }
+  .cRContainer{
+    flex-direction: column;
+  }
 
 }

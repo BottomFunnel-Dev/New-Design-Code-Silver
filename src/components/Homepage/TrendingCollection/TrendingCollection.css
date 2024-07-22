@@ -103,6 +103,10 @@
   .floralImage{
     height: 250px !important;
   }
+  .overlay-text {
+    top: 79%;
+    width: 100%;
+  }
 }
 
 
