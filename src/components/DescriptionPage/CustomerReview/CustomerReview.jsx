@@ -15,7 +15,7 @@ export const CustomerReview = () => {
            
             <div className="container mt-4">
 
-                <div className="d-flex">
+                <div className="d-flex cRContainer">
                     <div className="col-lg-3">
                         <div className="container d-flex row m-auto">
                             <div className="col-lg-6 border border-dark d-flex brownBackground crRatings rounded">

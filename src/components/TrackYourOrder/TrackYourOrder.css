@@ -209,4 +209,7 @@
     .tarckingMainContainer{
         flex-direction: column;
     }
+    .trackOrderLeftContainer {
+        width: 60%;
+    }
 }
