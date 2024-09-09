@@ -98,7 +98,7 @@ const Slider = () => {
                                         ADD TO CART
                                     </button>
                                     <button className='col-lg-5 buyButton'>
-                                       <a href="/checkout">BUY NOW </a>
+                                       <a href="/cart">BUY NOW </a>
                                     </button>
                                 </div>
                                 <div className='availabilityButton'>

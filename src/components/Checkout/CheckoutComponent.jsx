@@ -36,7 +36,7 @@ export const CheckoutComponent = () => {
           <h5>
             <span className='accountSubHeading'>
               <a href="/">Home</a>
-            </span> | Checkout
+            </span> | Cart
           </h5>
           <hr className='custom-hr'/>
         </div>
@@ -104,7 +104,7 @@ export const CheckoutComponent = () => {
               <button>APPLY</button>
             </div>
             <p className='checkoutFontColor'><a href="/">View promo code</a></p>
-            <button className='w-100 checkoutBuyButton mt-4'>BUY NOW</button>
+            <button className='w-100 checkoutBuyButton mt-4'><a href="/checkout">BUY NOW</a></button>
           </div>
         </div>
       </div>
