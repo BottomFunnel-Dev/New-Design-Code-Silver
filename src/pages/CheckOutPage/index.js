@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
 import Navbar from '../../components/Homepage/Navbar/Navbar';
 import { Footer } from '../../components/Homepage/footer/footer';
-import { CheckoutComponent } from '../../components/Checkout/CheckoutComponent';
+import { CheckoutForm } from '../../components/CheckoutForm/CheckoutForm';
 
 
 export default function Checkout() {
@@ -12,7 +12,7 @@ export default function Checkout() {
     <div className='backgroundimage'>
         <Navbar/>
 
-        <CheckoutComponent/>
+        <CheckoutForm/>
 
         <Footer/>
     </div>

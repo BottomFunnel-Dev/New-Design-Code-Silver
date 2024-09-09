@@ -14,11 +14,12 @@ import Wishlist from './pages/Wishlist';
 import Faq from './pages/FAQ';
 import MyAccount from './pages/Account';
 import Contact from './pages/Contact';
-import Checkout from './pages/CheckOutPage';
 import ListingPage from './pages/ListingPage';
 import TrackOrder from './pages/TrackOrder';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
+import Cart from './pages/CartPage';
+import Checkout from './pages/CheckOutPage';
 
 const AppRouter = () => {
   return (
@@ -36,6 +37,7 @@ const AppRouter = () => {
         <Route path="/faq" element={<Faq/>}/>
         <Route path="/my-account" element={<MyAccount/>}/>
         <Route path="/contact-us" element={<Contact/>}/>
+        <Route path="/cart" element={<Cart/>}/>
         <Route path="/checkout" element={<Checkout/>}/>
         <Route path="/product-list" element={<ListingPage/>}/>
         <Route path="/track-order" element={<TrackOrder/>}/>

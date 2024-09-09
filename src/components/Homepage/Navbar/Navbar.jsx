@@ -558,7 +558,7 @@ export const Navbar = () => {
                       <Heart color="#412814" size={22} className="mt-1"/>
                   </a>
 
-                  <a href="/checkout">
+                  <a href="/cart">
                       <Cart color="#412814" size={22} className="mt-1" />
                   </a>
                 </div>
